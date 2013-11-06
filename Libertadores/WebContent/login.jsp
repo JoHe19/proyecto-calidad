@@ -20,8 +20,7 @@ footer {
 </style>
 
 <link
-	href="resources/css/bootstrap-responsive.css"
-	rel="stylesheet">
+	href="resources/css/bootstrap-responsive.css" rel="stylesheet">
 
 <link href="resources/css/style.css"
 	rel="stylesheet">
